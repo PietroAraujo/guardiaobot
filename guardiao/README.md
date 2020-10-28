@@ -13,6 +13,4 @@ O projeto guardião é um assistente virtual inteligente que monitora máquinas 
 * npm install --save dotenv
 * npm install --save mysql
 
-### Desenvolvedores ###
 
-* [Marlon Andrei de Carvalho](marlon@micrologi.com.br)
